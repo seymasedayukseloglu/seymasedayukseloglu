@@ -1,5 +1,5 @@
 # 👋 Şeyma Seda Yükseloğlu  
-**Management Information Systems (4th Year) | Yönetim Bilişim Sistemleri (YBS)**
+**Management Information Systems**
 
 🎓 YBS Öğrencisi  
 📍 Veri Bilimi | Büyük Veri | Web Madenciliği | Yapay Zeka   
