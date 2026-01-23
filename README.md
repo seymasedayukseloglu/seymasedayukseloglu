@@ -2,7 +2,7 @@
 **Management Information Systems (4th Year) | Yönetim Bilişim Sistemleri (YBS)**
 
 🎓 YBS Öğrencisi  
-📍 Veri Bilimi | Büyük Veri | Web Madenciliği | Yapay Zeka 
+📍 Veri Bilimi | Büyük Veri | Web Madenciliği | Yapay Zeka   
 🚀 Data Engineering • AI Systems • Decision Support Systems • Data-Driven Systems
 
 ---
