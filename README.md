@@ -7,15 +7,6 @@
 
 ---
 
-## 🌍 İlgi Alanlarım (Interests)
-- Big Data & Web Mining  
-- Data Analysis & Machine Learning  
-- Artificial Intelligence Systems  
-- Decision Support Systems  
-- Strategic Data Analytics  
-
----
-
 ## 🧠 Uzmanlık Alanlarım
 - Büyük Veri Mimarileri (Big Data Architectures)  
 - Veri Hatları (Data Pipelines)  
@@ -26,14 +17,6 @@
 - Veri Odaklı Kurumsal Sistem Tasarımı  
 
 ---
-
-## 🛠️ Teknoloji Stack
-
-### 💻 Programlama
-- Python  
-- SQL  
-- Bash  
-
 ### 📊 Big Data & Streaming
 - Apache Kafka  
 - Apache Spark  
@@ -59,21 +42,17 @@
 - Streamlit  
 - Matplotlib  
 - Power BI  
-
 ---
-
 ## 🎨 Design & Creative Tools
 - Adobe Photoshop  
 - Adobe After Effects
 - Adobe Illustrator
-
 ---
 
 ## 📬 İletişim
 
 📧 **Mail:**  
 seymasedayukseloglu@gmail.com  
-
 💼 **LinkedIn:**  
 [linkedin.com/in/şeyma-seda-yükseloğlu-978247255](https://www.linkedin.com/in/%C5%9Feyma-seda-y%C3%BCkselo%C4%9Flu-978247255/)
 
