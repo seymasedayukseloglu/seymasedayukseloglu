@@ -7,43 +7,39 @@ Data Engineering • Big Data • AI Systems
 
 ---
 
-## About Me
+## About
 
-Management Information Systems student with a strong interest in Data Engineering, Big Data Architectures, Artificial Intelligence, and Decision Support Systems.
-
-I enjoy designing data-driven systems, building scalable data pipelines, and transforming raw data into meaningful insights through analytics and machine learning.
+Management Information Systems student passionate about Data Engineering, Big Data, AI, and Decision Support Systems.
 
 ---
 
-## Areas of Interest
+## Interests
 
 - Data Engineering
-- Big Data Architectures
+- Big Data
 - Data Pipelines
+- NLP & LLMs
 - Web Mining
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Social Network Analysis (SNA)
+- Social Network Analysis
 - Decision Support Systems
-- Data Analytics & Business Intelligence
 
 ---
 
 ## Tech Stack
 
-### Programming
+**Languages**
 
 - Python
 - SQL
 - C#
 
-### Big Data
+**Big Data**
 
 - Apache Kafka
-- Apache Spark (PySpark)
+- Apache Spark
 - Hadoop
 
-### Data Science
+**Data Science**
 
 - Pandas
 - NumPy
@@ -51,73 +47,35 @@ I enjoy designing data-driven systems, building scalable data pipelines, and tra
 - NetworkX
 - Transformers
 
-### Infrastructure
+**Infrastructure**
 
 - Docker
 - Kubernetes
 - Linux
 
-### Data Visualization
+**Visualization**
 
 - Power BI
 - Streamlit
 - Matplotlib
 
-### Web Technologies
-
-- ASP.NET MVC
-- Selenium
-
 ---
 
 ## Featured Projects
 
-### ARGUS – Strategic Decision Support System
-
-- Real-time data pipeline with Apache Kafka
-- Large-scale data processing using Apache Spark
-- NLP & LLM-based risk scoring
-- Interactive dashboard with Streamlit
-
----
-
-### HR Talent Analytics
-
-- Web scraping with Selenium
-- Analysis of 16,000+ job postings
-- Association Rule Mining (Apriori)
-- Interactive analytics dashboard
-
----
-
-### Social Network Analysis
-
-- Bipartite graph modeling
-- Community detection
-- Centrality analysis
-- Network visualization using NetworkX
-
----
-
-## Currently Learning
-
-- Distributed Data Systems
-- Cloud Data Engineering
-- Machine Learning Pipelines
-- AI-powered Decision Support Systems
+- **ARGUS** – Real-time decision support system with Kafka, Spark, NLP & LLMs.
+- **HR Talent Analytics** – Web mining and analytics on 16K+ job postings.
+- **Social Network Analysis** – Graph analysis and community detection with NetworkX.
 
 ---
 
 ## Contact
 
-📧 **Email**
-
+📧 **Email**  
 seymasedayukseloglu@gmail.com
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/şeyma-seda-yükseloğlu-978247255/
 
-🌐 **Portfolio**
-
+🌐 **GitHub**  
 https://github.com/seymasedayukseloglu
