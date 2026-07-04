@@ -1,59 +1,123 @@
-# 👋 Şeyma Seda Yükseloğlu  
-**Management Information Systems**
+<h1 align="center">Hi, I'm Şeyma Seda Yükseloğlu 👋</h1>
 
-🎓 YBS Öğrencisi  
-📍 Veri Bilimi | Büyük Veri | Web Madenciliği | Yapay Zeka   
-🚀 Data Engineering • AI Systems • Decision Support Systems • Data-Driven Systems
+<p align="center">
+Management Information Systems Student <br>
+Data Engineering • Big Data • AI Systems
+</p>
+
+---
+
+## About Me
+
+Management Information Systems student with a strong interest in Data Engineering, Big Data Architectures, Artificial Intelligence, and Decision Support Systems.
+
+I enjoy designing data-driven systems, building scalable data pipelines, and transforming raw data into meaningful insights through analytics and machine learning.
 
 ---
 
-## 🧠 Uzmanlık Alanlarım
-- Büyük Veri Mimarileri (Big Data Architectures)  
-- Veri Hatları (Data Pipelines)  
-- Web Madenciliği & Veri Toplama Sistemleri  
-- NLP & LLM Tabanlı Metin Analizi  
-- Sosyal Ağ Analizi (Social Network Analysis - SNA)  
-- Stratejik Karar Destek Sistemleri  
-- Veri Odaklı Kurumsal Sistem Tasarımı  
+## Areas of Interest
+
+- Data Engineering
+- Big Data Architectures
+- Data Pipelines
+- Web Mining
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Social Network Analysis (SNA)
+- Decision Support Systems
+- Data Analytics & Business Intelligence
 
 ---
-### 📊 Big Data & Streaming
-- Apache Kafka  
-- Apache Spark  
-- Hadoop (HDFS, YARN)  
-- Apache Pig  
 
-### ⚙️ DevOps & Infrastructure
-- Docker  
-- Docker Compose  
-- Kubernetes  
-- Linux (Ubuntu, Debian)  
+## Tech Stack
 
-### 🤖 Data Science & AI
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- NetworkX  
-- Transformers  
-- NLP Pipelines  
-- LLM Systems (Local Inference & API-based)  
+### Programming
 
-### 📈 Visualization & Analytics
-- Streamlit  
-- Matplotlib  
-- Power BI  
+- Python
+- SQL
+- C#
+
+### Big Data
+
+- Apache Kafka
+- Apache Spark (PySpark)
+- Hadoop
+
+### Data Science
+
+- Pandas
+- NumPy
+- Scikit-learn
+- NetworkX
+- Transformers
+
+### Infrastructure
+
+- Docker
+- Kubernetes
+- Linux
+
+### Data Visualization
+
+- Power BI
+- Streamlit
+- Matplotlib
+
+### Web Technologies
+
+- ASP.NET MVC
+- Selenium
+
 ---
-## 🎨 Design & Creative Tools
-- Adobe Photoshop  
-- Adobe After Effects
-- Adobe Illustrator
----
 
-## 📬 İletişim
+## Featured Projects
 
-📧 **Mail:**  
-seymasedayukseloglu@gmail.com  
-💼 **LinkedIn:**  
-[linkedin.com/in/şeyma-seda-yükseloğlu-978247255](https://www.linkedin.com/in/%C5%9Feyma-seda-y%C3%BCkselo%C4%9Flu-978247255/)
+### ARGUS – Strategic Decision Support System
+
+- Real-time data pipeline with Apache Kafka
+- Large-scale data processing using Apache Spark
+- NLP & LLM-based risk scoring
+- Interactive dashboard with Streamlit
 
 ---
+
+### HR Talent Analytics
+
+- Web scraping with Selenium
+- Analysis of 16,000+ job postings
+- Association Rule Mining (Apriori)
+- Interactive analytics dashboard
+
+---
+
+### Social Network Analysis
+
+- Bipartite graph modeling
+- Community detection
+- Centrality analysis
+- Network visualization using NetworkX
+
+---
+
+## Currently Learning
+
+- Distributed Data Systems
+- Cloud Data Engineering
+- Machine Learning Pipelines
+- AI-powered Decision Support Systems
+
+---
+
+## Contact
+
+📧 **Email**
+
+seymasedayukseloglu@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/şeyma-seda-yükseloğlu-978247255/
+
+🌐 **Portfolio**
+
+https://github.com/seymasedayukseloglu
